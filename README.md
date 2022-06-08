@@ -45,9 +45,5 @@ click on its own so you can just play with the mouse.
 
 ![ScreenShot](Screenshot%202.png)
 
-![ScreenShot](gameplay%201.png)
-
-![ScreenShot](gameplay%202.png)
-
 
 
